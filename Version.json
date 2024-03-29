@@ -1,4 +1,5 @@
 {
+Mainapp{
   "current_version": 1.0,
   "update_available": true,
   "maintance" : "",
@@ -7,4 +8,9 @@
     "Fixed issue : Bugs.",
     "Improved performance."
   ]
+}
+
+Testapp{
+
+
 }
