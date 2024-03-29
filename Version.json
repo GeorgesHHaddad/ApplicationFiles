@@ -1,9 +1,10 @@
 {
   "current_version": 1.0,
   "update_available": true,
+  "maintance" : "",
   "release_notes": [
-    "Added new feature X.",
-    "Fixed issue Y.",
+    "Added new feature : License method.",
+    "Fixed issue : Bugs.",
     "Improved performance."
   ]
 }
