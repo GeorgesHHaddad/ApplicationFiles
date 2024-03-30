@@ -1,7 +1,7 @@
 {
   "current_version": 1.0,
   "update_available": true,
-  "maintance" : "",
+  "token" : "",
   "release_notes": [
     "Added new feature : License method.",
     "Fixed issue : Bugs.",
