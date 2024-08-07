@@ -1,8 +1,8 @@
 {
-  "current_version": 1.1,
+  "current_version": 1.0,
   "release_notes": [
-    "Added new feature : License method.",
-    "Fixed issue : Bugs.",
+    "Added new feature : Secure license method for each user",
+    "Fixed issue : Bugs and delays.",
     "Improved performance."
   ]
 }
