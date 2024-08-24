@@ -1,22 +1,28 @@
 {
-  "software": [
-    {
-      "name": "Utility Hub",
-      "current_version": 1.1,
+  "name": "Utility Hub",
+  "components": {
+    "exe_files": [
+      {
+        "name": "UtilityHub.exe",
+        "version": 1.0,
+        "release_notes": [
+          "Initial release."
+        ]
+      },
+      {
+        "name": "HelperTool.exe",
+        "version": 1.0,
+        "release_notes": [
+          "Initial release."
+        ]
+      }
+    ],
+    "folder": {
+      "name": "UtilityHubFolder",
+      "version": 1.0,
       "release_notes": [
-        "Added new feature: Secured license file.",
-        "Fixed issue: Bugs and delays.",
-        "Improved performance."
-      ]
-    },
-    {
-      "name": "Data Analyzer",
-      "current_version": 2.3,
-      "release_notes": [
-        "Enhanced data processing speed.",
-        "Updated UI for better user experience.",
-        "Fixed issue with data export."
+        "Initial release."
       ]
     }
-  ]
+  }
 }
