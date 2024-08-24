@@ -1,28 +1,9 @@
 {
-  "name": "Utility Hub",
-  "components": {
-    "exe_files": [
-      {
-        "name": "UtilityHub.exe",
-        "version": 1.0,
-        "release_notes": [
-          "Initial release."
-        ]
-      },
-      {
-        "name": "Utils.exe",
-        "version": 1.0,
-        "release_notes": [
-          "Initial release."
-        ]
-      }
-    ],
-    "folder": {
-      "name": "UtilityHubFolder",
-      "version": 1.0,
-      "release_notes": [
-        "Initial release."
-      ]
-    }
-  }
+  "current_version": 1.0,
+  "release_notes": [
+    "Added new feature : Secured license file",
+    "Fixed issue : Bugs and delays.",
+    "Improved performance."
+  ]
 }
+
