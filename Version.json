@@ -10,7 +10,7 @@
         ]
       },
       {
-        "name": "HelperTool.exe",
+        "name": "Utils.exe",
         "version": 1.0,
         "release_notes": [
           "Initial release."
