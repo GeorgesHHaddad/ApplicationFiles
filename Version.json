@@ -1,13 +1,8 @@
 {
-  "versions": [
+  "software": [
     {
-      "version_number": 1.0,
-      "release_notes": [
-        "Initial release."
-      ]
-    },
-    {
-      "version_number": 1.1,
+      "name": "Utility Hub",
+      "current_version": 1.1,
       "release_notes": [
         "Added new feature: Secured license file.",
         "Fixed issue: Bugs and delays.",
@@ -15,12 +10,13 @@
       ]
     },
     {
-      "version_number": 1.2,
+      "name": "Data Analyzer",
+      "current_version": 2.3,
       "release_notes": [
-        "Minor UI updates.",
-        "Optimized memory usage."
+        "Enhanced data processing speed.",
+        "Updated UI for better user experience.",
+        "Fixed issue with data export."
       ]
     }
-  ],
-  "current_version": 1.2
+  ]
 }
